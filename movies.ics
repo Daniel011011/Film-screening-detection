@@ -6,253 +6,273 @@ PRODID:ics.py - http://git.io/lLljaA
 
 BEGIN:VEVENT
 
-DESCRIPTION:24311 - 杜比影院厅（儿童需购票）
+DESCRIPTION:影院ID: 24311 - 杜比影院厅（儿童需购票）
 
 DURATION:PT2H
 
-DTSTART:20250529T214000Z
+LOCATION:西安万达影城（高新万达广场杜比影院店）
 
-SUMMARY:星际宝贝史迪奇 (杜比影院厅（儿童需购票）)
+DTSTART:20250531T113000Z
 
-UID:7b5c024d-0600-48d4-b6e4-4b7a177d89a2@7b5c.org
+SUMMARY:碟中谍8：最终清算（杜比影院厅（儿童需购票））
+
+UID:977a0ea9-dd5c-42e0-95b7-1288ef9c73ad@977a.org
 
 END:VEVENT
 
 BEGIN:VEVENT
 
-DESCRIPTION:24311 - 杜比影院厅（儿童需购票）
+DESCRIPTION:影院ID: 24311 - 杜比影院厅（儿童需购票）
 
 DURATION:PT2H
 
-DTSTART:20250530T131000Z
+LOCATION:西安万达影城（高新万达广场杜比影院店）
 
-SUMMARY:碟中谍8：最终清算 (杜比影院厅（儿童需购票）)
+DTSTART:20250601T111000Z
 
-UID:7b4c7c2f-8467-47ef-bb09-249840c3b6aa@7b4c.org
+SUMMARY:碟中谍8：最终清算（杜比影院厅（儿童需购票））
+
+UID:88b383ad-dacd-4645-93b2-f90121aa618b@88b3.org
 
 END:VEVENT
 
 BEGIN:VEVENT
 
-DESCRIPTION:24311 - 杜比影院厅（儿童需购票）
+DESCRIPTION:影院ID: 24311 - 杜比影院厅（儿童需购票）
 
 DURATION:PT2H
 
-DTSTART:20250530T193000Z
+LOCATION:西安万达影城（高新万达广场杜比影院店）
 
-SUMMARY:碟中谍8：最终清算 (杜比影院厅（儿童需购票）)
+DTSTART:20250531T051000Z
 
-UID:f6fc7310-5052-4b66-b68e-aca257323f94@f6fc.org
+SUMMARY:碟中谍8：最终清算（杜比影院厅（儿童需购票））
+
+UID:3067ffa5-1643-4fd9-8fb1-49411837c804@3067.org
 
 END:VEVENT
 
 BEGIN:VEVENT
 
-DESCRIPTION:24311 - 杜比影院厅（儿童需购票）
+DESCRIPTION:影院ID: 24311 - 杜比影院厅（儿童需购票）
 
 DURATION:PT2H
 
-DTSTART:20250531T100000Z
+LOCATION:西安万达影城（高新万达广场杜比影院店）
 
-SUMMARY:碟中谍8：最终清算 (杜比影院厅（儿童需购票）)
+DTSTART:20250531T020000Z
 
-UID:c2109e35-bdc4-4acf-a7f7-d7fab988e980@c210.org
+SUMMARY:碟中谍8：最终清算（杜比影院厅（儿童需购票））
+
+UID:ef442511-a751-4acc-aa6d-e24df7d44902@ef44.org
 
 END:VEVENT
 
 BEGIN:VEVENT
 
-DESCRIPTION:24311 - 杜比影院厅（儿童需购票）
+DESCRIPTION:影院ID: 24311 - 杜比影院厅（儿童需购票）
 
 DURATION:PT2H
 
-DTSTART:20250531T131000Z
+LOCATION:西安万达影城（高新万达广场杜比影院店）
 
-SUMMARY:碟中谍8：最终清算 (杜比影院厅（儿童需购票）)
+DTSTART:20250530T051000Z
 
-UID:a9abe363-f45b-463b-896f-d5e52ddc38cc@a9ab.org
+SUMMARY:碟中谍8：最终清算（杜比影院厅（儿童需购票））
+
+UID:c93ac6c6-5c2b-4a47-9068-1de404d5bf3d@c93a.org
 
 END:VEVENT
 
 BEGIN:VEVENT
 
-DESCRIPTION:24311 - 杜比影院厅（儿童需购票）
+DESCRIPTION:影院ID: 24311 - 杜比影院厅（儿童需购票）
 
 DURATION:PT2H
 
-DTSTART:20250530T100000Z
+LOCATION:西安万达影城（高新万达广场杜比影院店）
 
-SUMMARY:碟中谍8：最终清算 (杜比影院厅（儿童需购票）)
+DTSTART:20250531T082000Z
 
-UID:38bec631-01cb-48dd-8103-55a1ab3fa7c6@38be.org
+SUMMARY:碟中谍8：最终清算（杜比影院厅（儿童需购票））
+
+UID:7ae39a43-d477-49c3-b323-d8a5eba0e7b5@7ae3.org
 
 END:VEVENT
 
 BEGIN:VEVENT
 
-DESCRIPTION:24311 - 杜比影院厅（儿童需购票）
+DESCRIPTION:影院ID: 24311 - 杜比影院厅（儿童需购票）
 
 DURATION:PT2H
 
-DTSTART:20250531T162000Z
+LOCATION:西安万达影城（高新万达广场杜比影院店）
 
-SUMMARY:碟中谍8：最终清算 (杜比影院厅（儿童需购票）)
+DTSTART:20250601T045000Z
 
-UID:2908286f-44ec-424b-8a25-47d0ccfe9ccf@2908.org
+SUMMARY:碟中谍8：最终清算（杜比影院厅（儿童需购票））
+
+UID:a7cf102b-9228-43df-bde4-6fa6208f9f44@a7cf.org
 
 END:VEVENT
 
 BEGIN:VEVENT
 
-DESCRIPTION:24311 - 杜比影院厅（儿童需购票）
+DESCRIPTION:影院ID: 24311 - 杜比影院厅（儿童需购票）
 
 DURATION:PT2H
 
-DTSTART:20250531T193000Z
+LOCATION:西安万达影城（高新万达广场杜比影院店）
 
-SUMMARY:碟中谍8：最终清算 (杜比影院厅（儿童需购票）)
+DTSTART:20250529T134000Z
 
-UID:7546f001-d2e3-4fa9-a4b3-5d2ece725506@7546.org
+SUMMARY:星际宝贝史迪奇（杜比影院厅（儿童需购票））
+
+UID:9965f90b-fa4a-46ba-8ee9-d49693f469c6@9965.org
 
 END:VEVENT
 
 BEGIN:VEVENT
 
-DESCRIPTION:24311 - 杜比影院厅（儿童需购票）
+DESCRIPTION:影院ID: 24311 - 杜比影院厅（儿童需购票）
 
 DURATION:PT2H
 
-DTSTART:20250529T172000Z
+LOCATION:西安万达影城（高新万达广场杜比影院店）
 
-SUMMARY:星际宝贝史迪奇 (杜比影院厅（儿童需购票）)
+DTSTART:20250530T144000Z
 
-UID:fad4a44a-4769-43f6-9375-dacf9402cabb@fad4.org
+SUMMARY:碟中谍8：最终清算（杜比影院厅（儿童需购票））
+
+UID:eac285f3-055d-44af-ab8d-fb3bef2f0317@eac2.org
 
 END:VEVENT
 
 BEGIN:VEVENT
 
-DESCRIPTION:24311 - 杜比影院厅（儿童需购票）
+DESCRIPTION:影院ID: 24311 - 杜比影院厅（儿童需购票）
 
 DURATION:PT2H
 
-DTSTART:20250531T224000Z
+LOCATION:西安万达影城（高新万达广场杜比影院店）
 
-SUMMARY:碟中谍8：最终清算 (杜比影院厅（儿童需购票）)
+DTSTART:20250529T113000Z
 
-UID:6012913d-59dc-4a41-b175-09cd2fe9ba48@6012.org
+SUMMARY:星际宝贝史迪奇（杜比影院厅（儿童需购票））
+
+UID:9f32c472-7294-42c8-b9b4-15bab9e5ce2f@9f32.org
 
 END:VEVENT
 
 BEGIN:VEVENT
 
-DESCRIPTION:24311 - 杜比影院厅（儿童需购票）
+DESCRIPTION:影院ID: 24311 - 杜比影院厅（儿童需购票）
 
 DURATION:PT2H
 
-DTSTART:20250601T125000Z
+LOCATION:西安万达影城（高新万达广场杜比影院店）
 
-SUMMARY:碟中谍8：最终清算 (杜比影院厅（儿童需购票）)
+DTSTART:20250530T020000Z
 
-UID:f7ca1a56-037e-462e-a6f0-77d6b1542e62@f7ca.org
+SUMMARY:碟中谍8：最终清算（杜比影院厅（儿童需购票））
+
+UID:d68ba31e-d6a3-4b2d-a13c-1a68d261b8ad@d68b.org
 
 END:VEVENT
 
 BEGIN:VEVENT
 
-DESCRIPTION:24311 - 杜比影院厅（儿童需购票）
+DESCRIPTION:影院ID: 24311 - 杜比影院厅（儿童需购票）
 
 DURATION:PT2H
 
-DTSTART:20250601T191000Z
+LOCATION:西安万达影城（高新万达广场杜比影院店）
 
-SUMMARY:碟中谍8：最终清算 (杜比影院厅（儿童需购票）)
+DTSTART:20250601T142000Z
 
-UID:18116ddd-d517-4fad-bd3b-35592ffdebbb@1811.org
+SUMMARY:碟中谍8：最终清算（杜比影院厅（儿童需购票））
+
+UID:ab25f881-fadd-4c18-875e-9b90882e8ebf@ab25.org
 
 END:VEVENT
 
 BEGIN:VEVENT
 
-DESCRIPTION:24311 - 杜比影院厅（儿童需购票）
+DESCRIPTION:影院ID: 24311 - 杜比影院厅（儿童需购票）
 
 DURATION:PT2H
 
-DTSTART:20250529T193000Z
+LOCATION:西安万达影城（高新万达广场杜比影院店）
 
-SUMMARY:星际宝贝史迪奇 (杜比影院厅（儿童需购票）)
+DTSTART:20250601T014000Z
 
-UID:4ca2642a-098a-4cc7-9c90-50646ccd7093@4ca2.org
+SUMMARY:碟中谍8：最终清算（杜比影院厅（儿童需购票））
+
+UID:be6ced61-6cb9-44e8-b82c-50e21382d721@be6c.org
 
 END:VEVENT
 
 BEGIN:VEVENT
 
-DESCRIPTION:24311 - 杜比影院厅（儿童需购票）
+DESCRIPTION:影院ID: 24311 - 杜比影院厅（儿童需购票）
 
 DURATION:PT2H
 
-DTSTART:20250530T162000Z
+LOCATION:西安万达影城（高新万达广场杜比影院店）
 
-SUMMARY:碟中谍8：最终清算 (杜比影院厅（儿童需购票）)
+DTSTART:20250530T082000Z
 
-UID:554eea76-265e-4658-ac3b-5041cf704572@554e.org
+SUMMARY:碟中谍8：最终清算（杜比影院厅（儿童需购票））
+
+UID:4a4781a8-288b-4f6e-9d6c-7a808d077e99@4a47.org
 
 END:VEVENT
 
 BEGIN:VEVENT
 
-DESCRIPTION:24311 - 杜比影院厅（儿童需购票）
+DESCRIPTION:影院ID: 24311 - 杜比影院厅（儿童需购票）
 
 DURATION:PT2H
 
-DTSTART:20250530T224000Z
+LOCATION:西安万达影城（高新万达广场杜比影院店）
 
-SUMMARY:碟中谍8：最终清算 (杜比影院厅（儿童需购票）)
+DTSTART:20250530T113000Z
 
-UID:cdf7154c-a7d6-4f33-9b4a-0d929899e507@cdf7.org
+SUMMARY:碟中谍8：最终清算（杜比影院厅（儿童需购票））
+
+UID:4034b9d7-f5d2-4ebe-86b5-48bcce87245b@4034.org
 
 END:VEVENT
 
 BEGIN:VEVENT
 
-DESCRIPTION:24311 - 杜比影院厅（儿童需购票）
+DESCRIPTION:影院ID: 24311 - 杜比影院厅（儿童需购票）
 
 DURATION:PT2H
 
-DTSTART:20250601T160000Z
+LOCATION:西安万达影城（高新万达广场杜比影院店）
 
-SUMMARY:碟中谍8：最终清算 (杜比影院厅（儿童需购票）)
+DTSTART:20250531T144000Z
 
-UID:83cc1f50-d25b-4eb7-8196-9b63c4f6cc98@83cc.org
+SUMMARY:碟中谍8：最终清算（杜比影院厅（儿童需购票））
+
+UID:1e7d3f03-dfd4-49ed-9983-3ea6f9caba32@1e7d.org
 
 END:VEVENT
 
 BEGIN:VEVENT
 
-DESCRIPTION:24311 - 杜比影院厅（儿童需购票）
+DESCRIPTION:影院ID: 24311 - 杜比影院厅（儿童需购票）
 
 DURATION:PT2H
 
-DTSTART:20250601T094000Z
+LOCATION:西安万达影城（高新万达广场杜比影院店）
 
-SUMMARY:碟中谍8：最终清算 (杜比影院厅（儿童需购票）)
+DTSTART:20250601T080000Z
 
-UID:0c065eb2-4834-459b-91b4-3e2946736ea3@0c06.org
+SUMMARY:碟中谍8：最终清算（杜比影院厅（儿童需购票））
 
-END:VEVENT
-
-BEGIN:VEVENT
-
-DESCRIPTION:24311 - 杜比影院厅（儿童需购票）
-
-DURATION:PT2H
-
-DTSTART:20250601T222000Z
-
-SUMMARY:碟中谍8：最终清算 (杜比影院厅（儿童需购票）)
-
-UID:b9513ba8-2dda-4fd3-a692-0caa3f5fc540@b951.org
+UID:02e57257-8c48-4a31-ac02-0e58834fb6e8@02e5.org
 
 END:VEVENT
 
